@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am new to github and actually coding and looking to learn fundamentals that can be applied in any language. 
-Next step after that is to learn how to create a mobile app, UI, frontend, backend and how they integrate. 
+Have many ideas of apps I want to try creating so hopefully will be taking the right path
 <!--
 **kokossas/kokossas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
